@@ -1,7 +1,6 @@
 ## Hello there 👋
 - 🔭 I’m currently working on Python personal projects.
 - 🌱 I’m currently learning Python and Machine Learning.
-- 👯 I’m looking to collaborate on 
 - 💬 Ask me about anything you think I'll be helpful with!
 - 📫 How to reach me: You can mail me at andres.trujillo1602@gmail.com
 - 😄 Pronouns: He/Him
